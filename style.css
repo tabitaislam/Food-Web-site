@@ -32,3 +32,47 @@
 .texts{
     width:350px;
 }
+.two{background-color:  #FFCB45;
+    border-color:  #FFCB45;
+    color: black;
+
+}
+.btnx{
+    background-color: #FFCB45;
+    color:black;
+    border-radius: 50px 50px;
+    border: none;
+    text-align: center;
+    justify-content: center;
+    height: 40px;
+    position: relative;
+    row-gap: 5px;
+    
+
+}
+.singinimg{
+    padding: 6px;
+}
+.backcollor{
+    background-color: #FFF9EA;
+}
+.thirdsection{
+    color: #FFCB45;
+    justify-content: center;
+    text-align: center;
+
+}
+.trdtext{
+    justify-content: center;
+    text-align: center;
+    line-height: 0px;
+    padding: 0px;
+}
+.product{
+    line-height: 80px;
+    width: 409px;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+    justify-content: center;
+}
