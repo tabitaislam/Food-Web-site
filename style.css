@@ -32,6 +32,7 @@
 .texts{
     width:350px;
 }
+<<<<<<< HEAD
 .two{background-color:  #FFCB45;
     border-color:  #FFCB45;
     color: black;
@@ -75,4 +76,28 @@
     margin: 0px;
     padding: 0px;
     justify-content: center;
+=======
+.search-icon{
+    margin-right: 15px;
+}
+.cart-icon-section{
+    position: relative;
+}
+.cart-circle{
+    padding: 0px 4px;
+    background-color: #FFCB45;
+    border-radius: 100%;
+    font-size: 9px;
+    font-weight: 700;
+    position: absolute;
+    left: 13px;
+    top: -2px;
+}
+.hero{
+    background-image: url(image/Hero.png);
+    height: 90vh;
+    width:100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+>>>>>>> 73b82f3f7f633656e26b1ce93323e04ba518a842
 }
